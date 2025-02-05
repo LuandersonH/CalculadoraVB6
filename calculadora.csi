@@ -1,0 +1,12 @@
+[History]
+1=#P0#=mb	#P1#=display_KeyPress	#P2#=Project1/frmCalculator/display_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250203043358	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=display_Change	#P2#=Project1/frmCalculator/display_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250203041708	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=btnConfirm_Click	#P2#=Project1/frmCalculator/btnConfirm_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250203043605	#P7#=0	#P8#=10	.
+4=#P0#=mb	#P1#=btnPoint_Click	#P2#=Project1/frmCalculator/btnPoint_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250201174210	#P7#=0	#P8#=-1	.
+5=#P0#=mb	#P1#=btnSome_Click	#P2#=Project1/frmCalculator/btnSome_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250201174106	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=btnSub_Click	#P2#=Project1/frmCalculator/btnSub_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250201174050	#P7#=0	#P8#=4	.
+7=#P0#=mb	#P1#=btnMult_Click	#P2#=Project1/frmCalculator/btnMult_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250201174036	#P7#=0	#P8#=3	.
+8=#P0#=mb	#P1#=btnDivision_Click	#P2#=Project1/frmCalculator/btnDivision_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250203042417	#P7#=0	#P8#=2	.
+9=#P0#=mb	#P1#=btnPercantage_Click	#P2#=Project1/frmCalculator/btnPercantage_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250203043648	#P7#=0	#P8#=3	.
+10=#P0#=mb	#P1#=btnClear_Click	#P2#=Project1/frmCalculator/btnClear_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250203041455	#P7#=0	#P8#=-1	.
+11=#P0#=mb	#P1#=digits_Click	#P2#=Project1/frmCalculator/digits_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250201173236	#P7#=0	#P8#=0	.
